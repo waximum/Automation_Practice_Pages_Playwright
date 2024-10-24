@@ -41,7 +41,7 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/repo-name.git
+git clone 
 
 Navigate into the project directory:
 
