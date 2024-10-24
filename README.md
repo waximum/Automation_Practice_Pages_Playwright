@@ -41,7 +41,7 @@ Installation
 
     bash
 
-git clone 
+git clone https://github.com/waximum/Automation_Practice_Pages_Playwright.git
 
 Navigate into the project directory:
 
