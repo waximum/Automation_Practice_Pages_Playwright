@@ -97,8 +97,5 @@ Future Improvements
     Integrate with GitHub Actions to run tests automatically on each commit.
     Expand cross-browser support to include Firefox and WebKit.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to modify the README based on any additional features or tests that you add to your project!
